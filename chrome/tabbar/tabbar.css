@@ -158,8 +158,7 @@
 	padding-inline-start: 12px !important;
 	padding-inline-end: 8px !important;
 	/* See https://support.mozilla.org/en-US/questions/1274481 */
-	font-weight: 500 !important;
-	color: rgb(218, 220, 227);
+	font-weight: 525 !important;
 }
 
 .tab-content::before,

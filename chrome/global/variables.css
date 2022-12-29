@@ -52,7 +52,8 @@
 	--lwt-accent-color: #202124 !important;
 
 	/* textcolor */
-	--lwt-text-color: #9ba0a5 !important;
+	/* Updated for a lighter tone */
+	--lwt-text-color: #d1d8df !important;
 
 	/* toolbar */
 	--toolbar-bgcolor: #333639 !important;
