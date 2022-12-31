@@ -1,0 +1,15 @@
+/* See: https://www.w3schools.com/css/css3_variables_mediaqueries.asp */
+:root {
+    --bg-color: #dee1e6 !important
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+       --bg-color: #202124 !important;
+    }
+}
+
+/* See: https://support.mozilla.org/bm/questions/1249738 */
+@-moz-document url("about:newtab"), url("about:home") {
+	body { background-color: var(--bg-color) !important; }
+}
