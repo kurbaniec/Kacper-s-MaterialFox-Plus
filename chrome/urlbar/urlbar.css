@@ -279,6 +279,10 @@
 	transform: translateX(-9px) !important;
 }
 
+#urlbar[breakout] {
+	position: relative !important;
+}
+
 #urlbar-input
 {
 	width: 100% !important;
