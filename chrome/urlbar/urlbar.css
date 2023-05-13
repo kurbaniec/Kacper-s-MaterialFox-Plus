@@ -280,7 +280,7 @@
 }
 
 #urlbar[breakout] {
-	position: relative !important;
+	transform: translateY(4px) !important;
 }
 
 #urlbar-input
