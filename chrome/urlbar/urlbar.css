@@ -367,6 +367,7 @@
 {
 	display: flex !important;
 	position: relative !important;
+        transform: translateY(-2px) !important;
 }
 
 .identity-box-button,
@@ -619,6 +620,7 @@
 	border-radius: 0 !important;
 	height: 24px !important;
 	width: 32px !important;
+        margin-bottom: 4px !important;
 }
 
 .urlbar-page-action:-moz-any(
