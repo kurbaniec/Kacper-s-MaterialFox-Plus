@@ -5,6 +5,7 @@
 	padding-inline: 5px 6px !important;
 	background-color: var(--toolbar-bgcolor) !important;
 	background-image: unset !important;
+	padding-top: 3px !important;
 }
 
 #reload-button[disabled]:not(:-moz-window-inactive) > .toolbarbutton-icon
